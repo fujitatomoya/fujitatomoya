@@ -21,7 +21,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 - [KubeCon EU 2021 Edge Day](https://www.youtube.com/watch?v=cAWgR1Lx-lw) Kubernetes Robotics System Architecture [Slides](https://static.sched.com/hosted_files/kubenetesedgedayeu21/36/KubernetesRoboticsEdgeClusterSystem_TomoyaFujita_4May_v1.pdf) / [Video](https://www.youtube.com/watch?v=rqyLd_AhXak&t)
 - [ROS World 2021](https://roscon.ros.org/world/2021/) ContentFitleredTopic [Video](https://vimeo.com/649654533/c8104829db)
 - [ROSCon JP 2022](https://roscon.jp/2022_en/) Keynote Speech [Slides](https://roscon.jp/2022/presentations/1a.pdf) / [Video](https://vimeo.com/781672486)
-
+- [Alibaba Cloud Developer Summit 2023](https://www.alibabacloud.com/ja/developer/event/alibaba-cloud-developer-summit-2023) [Slides](https://www.slideshare.net/FujitaTomoya/20230110alibaba-cloud-developer-summitsonyv3pptx) / [Video](https://www.youtube.com/watch?v=XxUbtqUgu50&t=9332s)
 
 #### Assignments
 
