@@ -33,8 +33,8 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 #### Statistics
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujitatomoya&layout=compact&show_icons=true&theme=radical" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=fujitatomoya&theme=radical&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fujitatomoya&layout=compact&show_icons=true&theme=radical" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fujitatomoya&theme=radical&show_icons=ture" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fujitatomoya&theme=radical&column=7
