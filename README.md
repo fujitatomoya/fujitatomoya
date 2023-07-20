@@ -30,6 +30,10 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 - [ROSCon 2022](https://roscon.ros.org/2022/) Organization Committee and Programming Committee.
 - [ROSCon 2023](https://roscon.ros.org/2023/) Programming Committee.
 
+#### Publication
+
+- [Edge Native Applications Principles Whitepaper](https://www.cncf.io/reports/edge-native-applications-principles-whitepaper/)
+
 #### Statistics
 
 <p align="left"> 
