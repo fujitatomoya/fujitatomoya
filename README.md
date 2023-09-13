@@ -10,7 +10,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 
 - [ROS 2](https://github.com/ros2) core system layer mainly. (a member of [Technical Steering Committee](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#technical-steering-committee-tsc))
 - [Kubernetes](https://github.com/kubernetes) Edge IoT use cases.
-- [KubeEdge](https://github.com/kubeedge) (SIG-Robotics Co-Chair) and [OpenYurt](https://github.com/openyurtio)
+- [KubeEdge](https://github.com/kubeedge) (SIG-Robotics Chair) and [OpenYurt](https://github.com/openyurtio)
 - [Secure Reliable Transport](https://github.com/Haivision/srt) and [Prometheus Exporter](https://github.com/Haivision/srt-prometheus-exporter)
 
 #### Talks / Slides
@@ -26,7 +26,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 #### Assignments
 
 - [ROS Technical Steering Committee](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#technical-steering-committee-tsc)
-- [KubeEdge SIG Robotics](https://github.com/kubeedge/community/tree/master/sig-robotics) Co-Chair
+- [KubeEdge SIG Robotics](https://github.com/kubeedge/community/tree/master/sig-robotics) Chair
 - [ROSCon 2022](https://roscon.ros.org/2022/) Organization Committee and Programming Committee.
 - [ROSCon 2023](https://roscon.ros.org/2023/) Programming Committee.
 
