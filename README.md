@@ -37,6 +37,10 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 
 - [Edge Native Applications Principles Whitepaper](https://www.cncf.io/reports/edge-native-applications-principles-whitepaper/)
 
+#### Award
+
+- [Sony Outstanding Engineer Award 2022](https://www.sony.com/en/SonyInfo/technology/activities/SOE2022/)
+
 #### Statistics
 
 <p align="left"> 
