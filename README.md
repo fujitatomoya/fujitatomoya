@@ -36,6 +36,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 #### Publication
 
 - [Edge Native Applications Principles Whitepaper](https://www.cncf.io/reports/edge-native-applications-principles-whitepaper/)
+- [Edge Native Applications Design Behavior Whitepaper](https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/)
 
 #### Award
 
