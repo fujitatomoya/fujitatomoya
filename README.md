@@ -41,6 +41,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 #### Award
 
 - [Sony Outstanding Engineer Award 2022](https://www.sony.com/en/SonyInfo/technology/activities/SOE2022/)
+- [The Best ROS Developer Award 2024](https://www.theconstruct.ai/ros-awards-2024/)
 
 #### Statistics
 
