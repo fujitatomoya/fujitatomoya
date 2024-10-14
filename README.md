@@ -11,6 +11,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 - [ROS 2](https://github.com/ros2) core system layer mainly. (a member of [Technical Steering Committee](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#technical-steering-committee-tsc))
 - [Kubernetes](https://github.com/kubernetes) Edge IoT use cases.
 - [KubeEdge](https://github.com/kubeedge) (SIG-Robotics Chair) and [OpenYurt](https://github.com/openyurtio)
+- [Cilium](https://github.com/cilium/cilium) and [WireGuard](https://www.wireguard.com/)
 - [Secure Reliable Transport](https://github.com/Haivision/srt) and [Prometheus Exporter](https://github.com/Haivision/srt-prometheus-exporter)
 
 #### Talks / Slides
@@ -25,11 +26,11 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 - [ROSCon 2023 Presentation](https://roscon.ros.org/2023) ROS with Kubernetes/KubeEdge [Slides](https://roscon.ros.org/2023/talks/ROS_with_KubernetesKubeEdge.pdf) / [Video](https://vimeo.com/879001688/33b2495a49)
 - [ROSCon 2023 Lightning Talk](https://roscon.ros.org/2023) ROS 2 Persistent Parameter Server [Slides](https://github.com/fujitatomoya/ros2_persist_parameter_server/blob/master/presentation/ros2_parameter_server.pdf) / [Video](https://vimeo.com/879001275/172b83b7d2#t=10m10s)
 
-
 #### Assignments
 
-- [ROS Technical Steering Committee](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#technical-steering-committee-tsc)
-- [KubeEdge SIG Robotics](https://github.com/kubeedge/community/tree/master/sig-robotics) Chair
+- [IEEE Robotics & Automation Practice Editorial Board](https://www.ieee-ras.org/publications/ra-p/editorial-board)
+- [ROS Project Management Committee](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#the-ros-project-management-committee-ros-pmc)
+- [KubeEdge SIG Robotics](https://github.com/kubeedge/community/tree/master/sig-robotics) Co-Chair
 - [ROSCon 2022](https://roscon.ros.org/2022/) Organization Committee and Programming Committee.
 - [ROSCon 2023](https://roscon.ros.org/2023/) Programming Committee.
 
