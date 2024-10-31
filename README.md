@@ -8,7 +8,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 
 🔭 Currently I am working on...
 
-- [ROS 2](https://github.com/ros2) core system layer mainly. (a member of [Technical Steering Committee](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#technical-steering-committee-tsc))
+- [ROS 2](https://github.com/ros2) core system layer mainly.
 - [Kubernetes](https://github.com/kubernetes) Edge IoT use cases.
 - [KubeEdge](https://github.com/kubeedge) (SIG-Robotics Chair) and [OpenYurt](https://github.com/openyurtio)
 - [Cilium](https://github.com/cilium/cilium) and [WireGuard](https://www.wireguard.com/)
