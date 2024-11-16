@@ -25,14 +25,18 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 - [Alibaba Cloud Developer Summit 2023](https://www.alibabacloud.com/ja/developer/event/alibaba-cloud-developer-summit-2023) [Slides](https://www.slideshare.net/FujitaTomoya/20230110alibaba-cloud-developer-summitsonyv3pptx) / [Video](https://www.youtube.com/watch?v=XxUbtqUgu50&t=9332s)
 - [ROSCon 2023 Presentation](https://roscon.ros.org/2023) ROS with Kubernetes/KubeEdge [Slides](https://roscon.ros.org/2023/talks/ROS_with_KubernetesKubeEdge.pdf) / [Video](https://vimeo.com/879001688/33b2495a49)
 - [ROSCon 2023 Lightning Talk](https://roscon.ros.org/2023) ROS 2 Persistent Parameter Server [Slides](https://github.com/fujitatomoya/ros2_persist_parameter_server/blob/master/presentation/ros2_parameter_server.pdf) / [Video](https://vimeo.com/879001275/172b83b7d2#t=10m10s)
+- [ROSCon 2024 Lightning Talk](https://roscon.ros.org/2024) IEEE Robotics and Automation Practice [Slides](https://docs.google.com/presentation/d/1punk9SqGpb1n2CsRd3f3t0eJMHJOJVknRzPVhM_bSvM/edit?usp=sharing) / [Video](https://vimeo.com/1026038503#t=29m00s)
+- [ROSCon 2024 Presentation](https://roscon.ros.org/2024) Jazzy Jalisco rosbag2 updates and new features (Slides Not available yet) / [Video](https://vimeo.com/1024970794)
+- [ROSCon 2024 Presentation](https://roscon.ros.org/2024) ros2ai Next-Gen ROS 2 CLI empowered by OpenAI [Slides](https://raw.githack.com/fujitatomoya/ros2ai/rolling/doc/ROSCon2024_ros2ai.html) / [Video](https://vimeo.com/1026034712)
 
 #### Assignments
 
 - [IEEE Robotics & Automation Practice Editorial Board](https://www.ieee-ras.org/publications/ra-p/editorial-board)
 - [ROS Project Management Committee](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#the-ros-project-management-committee-ros-pmc)
 - [KubeEdge SIG Robotics](https://github.com/kubeedge/community/tree/master/sig-robotics) Co-Chair
-- [ROSCon 2022](https://roscon.ros.org/2022/) Organization Committee and Programming Committee.
-- [ROSCon 2023](https://roscon.ros.org/2023/) Programming Committee.
+- [ROSCon 2022](https://roscon.ros.org/2022/) Organization Committee Co-Chair and Programming Committee Co-Chair.
+- [ROSCon 2023](https://roscon.ros.org/2023/) Programming Committee Co-Chair.
+- [ROSCon 2024](https://roscon.ros.org/2024/) Programming Committee.
 
 #### Publication
 
