@@ -38,6 +38,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 - [ROSCon 2022](https://roscon.ros.org/2022/) Organization Committee Co-Chair and Programming Committee Co-Chair.
 - [ROSCon 2023](https://roscon.ros.org/2023/) Programming Committee Co-Chair.
 - [ROSCon 2024](https://roscon.ros.org/2024/) Programming Committee.
+- [ROSCon 2025](https://roscon.ros.org/2025/) Community Liaison.
 
 #### Publication
 
