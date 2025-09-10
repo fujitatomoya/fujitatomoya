@@ -29,6 +29,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 - [ROSCon 2024 Presentation](https://roscon.ros.org/2024) Jazzy Jalisco rosbag2 updates and new features [Slides](https://roscon.ros.org/2024/talks/Jazzy_Jalisco_rosbag2_updates_and_new_features.pdf) / [Video](https://vimeo.com/1024970794)
 - [ROSCon 2024 Presentation](https://roscon.ros.org/2024) ros2ai Next-Gen ROS 2 CLI empowered by OpenAI [Slides](https://raw.githack.com/fujitatomoya/ros2ai/rolling/doc/ROSCon2024_ros2ai.html) / [Video](https://vimeo.com/1026034712)
 - [KubeCon: Cilium + eBPF Day 2024 North America](https://colocatedeventsna2024.sched.com/) Applying Cilium at Edge with KubeEdge [Slides](https://static.sched.com/hosted_files/colocatedeventsna2024/15/Cilium%2BeBPF-Day-NA_Cilium-with-KubeEdge.v0.pdf) / [Video](https://youtu.be/M0PincxlHpI)
+- [ROSCon JP 2025](https://roscon.jp/2025/) ROS Japan Develoer Kaigi [Slides](https://raw.githack.com/fujitatomoya/ros-japan-developer-kaigi/main/docs/presentation/ROS_Japan_Developer_Kaigi/ROS_Japan_Developer_Kaigi.html) / [Video](https://www.youtube.com/watch?v=y1FqHlsJU4k&t=32506s)
 
 #### Assignments
 
