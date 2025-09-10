@@ -53,9 +53,17 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 
 #### Statistics
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fujitatomoya&layout=compact&show_icons=true&theme=radical" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fujitatomoya&theme=radical&show_icons=ture" />
+<p align="center">
+  <a href="https://github.com/fujitatomoya">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fujitatomoya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/fujitatomoya">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fujitatomoya&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fujitatomoya&theme=dark&hide_border=true"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fujitatomoya&theme=radical&column=7
