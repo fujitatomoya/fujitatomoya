@@ -30,6 +30,8 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 - [ROSCon 2024 Presentation](https://roscon.ros.org/2024) ros2ai Next-Gen ROS 2 CLI empowered by OpenAI [Slides](https://raw.githack.com/fujitatomoya/ros2ai/rolling/doc/ROSCon2024_ros2ai.html) / [Video](https://vimeo.com/1026034712)
 - [KubeCon: Cilium + eBPF Day 2024 North America](https://colocatedeventsna2024.sched.com/) Applying Cilium at Edge with KubeEdge [Slides](https://static.sched.com/hosted_files/colocatedeventsna2024/15/Cilium%2BeBPF-Day-NA_Cilium-with-KubeEdge.v0.pdf) / [Video](https://youtu.be/M0PincxlHpI)
 - [ROSCon JP 2025](https://roscon.jp/2025/) ROS Japan Develoer Kaigi [Slides](https://raw.githack.com/fujitatomoya/ros-japan-developer-kaigi/main/docs/presentation/ROS_Japan_Developer_Kaigi/ROS_Japan_Developer_Kaigi.html) / [Video](https://www.youtube.com/watch?v=y1FqHlsJU4k&t=32506s)
+- [ROSCon 2025 Lightning Talk](https://roscon.ros.org/2025) ROS Asia Pacific Developer Meeting [Slides](https://raw.githack.com/fujitatomoya/ros-apac-developer-meeting/main/docs/presentation/ROS_APAC_Developer_Meeting/ROS_APAC_Developer_Meeting.html) / [Video](https://vimeo.com/1136158488#t=1m30s)
+- [ROSCon 2025 Presentation](https://roscon.ros.org/2025) ROS 2 Logging Subsystem and Alternative Syslog Implementation [Slides](https://www.linkedin.com/posts/tomoya-fujita-5bb656b6_ros-2-logging-subsystem-rclloggingsyslog-activity-7392464387321774080-gTxj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABioKN8B7etC1NDpZb7ZSGF4hnv889IuRUw) / [Video](https://vimeo.com/1136772381)
 
 #### Assignments
 
