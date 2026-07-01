@@ -44,6 +44,8 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 - [ROSCon 2024](https://roscon.ros.org/2024/) Programming Committee.
 - [ROSCon 2025](https://roscon.ros.org/2025/) Community Liaison.
 - [Google Summer of Code 2025 Open Robotics Mentor](https://summerofcode.withgoogle.com/organizations/open-robotics/programs)
+- [ROSConJP 2026](https://roscon.ros.org/jp/2026/) Programming Committee.
+- [ROSCon 2026](https://roscon.ros.org/2026/) Programming Committee.
 
 #### Publication
 
