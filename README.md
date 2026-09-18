@@ -91,7 +91,7 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 <br/><br/>
 
 <a href="https://github.com/fujitatomoya">
-  <img src="https://ghchart.rshah.org/7aa2f7/fujitatomoya" alt="Contribution heatmap" width="100%" />
+  <img src="https://raw.githubusercontent.com/fujitatomoya/fujitatomoya/metrics/metrics.isocalendar.svg" alt="Isometric contribution calendar" width="100%" />
 </a>
 
 <br/><br/>
