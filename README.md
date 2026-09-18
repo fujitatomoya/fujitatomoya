@@ -59,18 +59,54 @@ Please feel free to reach out to me [Twitter](https://twitter.com/TomoyaFujita1)
 
 #### Statistics
 
-<p align="center">
-  <a href="https://github.com/fujitatomoya">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fujitatomoya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/fujitatomoya">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fujitatomoya&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fujitatomoya&theme=dark&hide_border=true"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=ROS+2+core+system+developer;Kubernetes+%2F+KubeEdge+for+robotics+at+the+edge;Open+source%2C+robotics%2C+and+community" alt="typing intro" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fujitatomoya&theme=radical&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+
+<a href="https://github.com/fujitatomoya"><img src="https://komarev.com/ghpvc/?username=fujitatomoya&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="profile views" /></a>
+<a href="https://github.com/fujitatomoya?tab=followers"><img src="https://img.shields.io/github/followers/fujitatomoya?style=for-the-badge&logo=github&labelColor=1a1b27&color=bb9af7" alt="followers" /></a>
+<a href="https://github.com/fujitatomoya?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/fujitatomoya?style=for-the-badge&logo=github&labelColor=1a1b27&color=e0af68" alt="stars" /></a>
+
+<br/><br/>
+
+<a href="https://github.com/fujitatomoya">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fujitatomoya&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fujitatomoya&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Top languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/fujitatomoya">
+  <img src="https://streak-stats.demolab.com/?user=fujitatomoya&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=c0caf5&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-trophies.devomb.com/?username=fujitatomoya&theme=tokyonight&column=-1&row=1&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/fujitatomoya">
+  <img src="https://ghchart.rshah.org/7aa2f7/fujitatomoya" alt="Contribution heatmap" width="100%" />
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fujitatomoya/fujitatomoya/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fujitatomoya/fujitatomoya/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/fujitatomoya/fujitatomoya/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<a href="https://github.com/fujitatomoya/ros2ai"><img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fujitatomoya&repo=ros2ai&hide_border=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="ros2ai" /></a>
+<a href="https://github.com/fujitatomoya/ros_k8s"><img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fujitatomoya&repo=ros_k8s&hide_border=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="ros_k8s" /></a>
+<a href="https://github.com/fujitatomoya/ros2_persist_parameter_server"><img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fujitatomoya&repo=ros2_persist_parameter_server&hide_border=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="ros2_persist_parameter_server" /></a>
+<a href="https://github.com/fujitatomoya/rcl_logging_syslog"><img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fujitatomoya&repo=rcl_logging_syslog&hide_border=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="rcl_logging_syslog" /></a>
+
+</div>
